@@ -97,9 +97,10 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/navy-blue.jpeg) center top no-repeat;
+	background:url(../img/festa.jpg) center top no-repeat;
 	background-size: cover;
 	height: 100vh;
+	font-weight: 700;
 }
 .logo{
 	width:130px;
@@ -292,7 +293,7 @@ color: #fff;
 .Learn-More{
 	display:inline-block;
 	padding:0 5px 0 0;
-	color:#7cc576;
+	color:rgb(5, 5, 80);
 	font-size:16px;
 	text-transform:uppercase;
 	font-family: 'Montserrat', sans-serif;
@@ -341,7 +342,7 @@ color: #fff;
 	-webkit-transition:all 0.3s ease-in-out;
 }
 .Portfolio-nav li a:hover{
-	background:#7cc576;
+	background:rgb(5, 5, 80);
 	color:#fff;
 	text-decoration:none;
 }
@@ -372,7 +373,7 @@ color: #fff;
 }
 
 .Portfolio-nav li a.current{
-	background:#7cc576;
+	background:rgb(5, 5, 80);
 	color:#fff;
 	text-decoration:none;
 }
@@ -446,13 +447,13 @@ img {
 	width:68px;
 	height:68px;
 	margin:0 auto;
-	border:2px solid #7cc576;
+	border:2px solid rgb(5, 5, 80);
 	border-radius:50%;
 	display:block;
 	line-height:68px;
 	text-align:center;
 	font-size:27px;
-	color:#7cc576;
+	color:rgb(5, 5, 80);
 	cursor: pointer;
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
@@ -465,7 +466,7 @@ border: 2px solid #fff;
 }
 
 .c-logo-part{
-	background:#7cc576;
+	background:rgb(5, 5, 80);
 	padding:25px 0;
     filter: alpha(opacity=60);
 }
@@ -704,7 +705,7 @@ border: 2px solid #fff;
 	-webkit-transition:all 0.3s ease-in-out;
 }
 .input-text:focus {
-	border: 1px solid #7cc576;
+	border: 1px solid rgb(5, 5, 80);
 	outline:0;
 	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(124, 197, 118, 0.3);
 	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(124, 197, 118, 0.3);	
@@ -719,7 +720,7 @@ border: 2px solid #fff;
 .input-btn{
 	width:175px;
 	height:50px;
-	background:#7cc576;
+	background:rgb(5, 5, 80);
 	border-radius:4px;
 	color:#ffffff;
 	font-size:14px;
@@ -746,8 +747,8 @@ border: 2px solid #fff;
 }
 
 #sendmessage {
-    color: #7cc576;
-    border:1px solid #7cc576;
+    color: rgb(5, 5, 80);
+    border:1px solid rgb(5, 5, 80);
     display:none;
     text-align:center;
     padding:15px;
@@ -787,7 +788,7 @@ border: 2px solid #fff;
 	text-align:center;
 }
 .copyright a, .credits a{
-	color:#7cc576;
+	color:rgb(5, 5, 80);
 	font-weight:600;
 	text-decoration: none;
 	transition:all 0.3s ease-in-out;
@@ -818,7 +819,7 @@ border: 2px solid #fff;
 }
 
 .res-nav_click:hover, .res-nav_click:active, .res-nav_click:focus {
-	color: #7cc576 !important;
+	color: rgb(5, 5, 80) !important;
 }
 
 .portfolioContainer{

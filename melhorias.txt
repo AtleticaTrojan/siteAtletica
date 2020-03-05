@@ -12,7 +12,7 @@ Mudar imagem da Apresentação
 
 Trocar imagem da parte de Associação
      -Colocar imagem do modelo da carteirinha
-ssss
+     
 Remover imagem da parte Notícias
      -Deixar apenas os textos das notícias
 

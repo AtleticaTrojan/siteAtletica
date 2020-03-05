@@ -1,0 +1,27 @@
+Sugestões site Trojan:
+
+Alterar fundo da Tela inicial
+     -Colocar uma imagem que remeta a uma atlética
+          .Esportes, festas, cor mais viva
+     -Mudar ou retirar botão voltar
+          . Mudar texto para "Começar", e mudar cor do fundo (branco talvez seja uma boa)
+          . Quando clicar ir para apresentação
+
+Mudar imagem da Apresentação
+     - Colocar uma foto do IC, ou da bandeira, ou logo
+
+Trocar imagem da parte de Associação
+     -Colocar imagem do modelo da carteirinha
+
+Remover imagem da parte Notícias
+     -Deixar apenas os textos das notícias
+
+Retirar fundo de imagem e deixar fundo simples na parte das Parcerias
+     -Sem relatos, apenas as empresas, com foto e nome, (igual o da diretoria com link para as redes sociais dos parceiros)
+
+Mudar fundo do Junte-se a trojan
+     -Colocar fundo da logo da trojan ou foto do ic
+
+Alterações na guia Contato
+     -Colocar cor azul
+     -Mudar "contatos" para "contato" no nav

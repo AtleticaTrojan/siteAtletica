@@ -224,9 +224,25 @@ p {
   -webkit-transition: all 0.3s ease-in-out;
 }
 
-.main-nav li a:hover {
+.main-nav li .nav__a:hover {
   text-decoration: none;
-  color: rgb(131, 209, 248);
+  color: #050550;
+}
+
+.main-nav li .nav__a:after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 2px;
+  bottom: 2px;
+  background-color: #050550;
+  visibility: hidden;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.main-nav .nav__a:hover:after, .main-nav li:hover > .nav__a:after, .main-nav .active > .nav__a:after {
+  visibility: visible;
+  width: 50px;
 }
 
 .small-logo {
@@ -262,6 +278,10 @@ p {
 }
 .main-section.alabaster {
   background: #fafafa;
+}
+
+.wow {
+  max-width: 50%;
 }
 
 /* Featured Work
